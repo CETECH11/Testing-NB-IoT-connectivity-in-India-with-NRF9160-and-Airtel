@@ -1,4 +1,4 @@
-# BreadcrumbsTesting-NB-IoT-connectivity-in-India-with-NRF9160-and-Airtel
+# Testing-NB-IoT-connectivity-in-India-with-NRF9160-and-Airtel
 
 ![alt text](https://hackster.imgix.net/uploads/attachments/1669125/_dsc1126_McazSQNz1C.JPG?auto=compress%2Cformat&w=740&h=555&fit=max)
 
